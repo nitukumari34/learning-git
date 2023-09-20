@@ -9,3 +9,4 @@ Codezeal Technology,Ranchi
 - C++
 
 - C,DSA
+- HTML,CSS ,JavaScript
